@@ -1,0 +1,11 @@
+# From https://gist.githubusercontent.com/jcass8695/d766fd65c0240b5c424ed73b17664db6/raw/47c2cf65951fca1d8c913cbd672f9ddab52d84d6/4od-blocklist.txt
+
+2356e.v.fwmrm.net
+ads-pres.channel4.com
+cdn.http.anno.channel4.com
+cdn.ss.anno.channel4.com
+p.videologygroup.com
+securecdn.videologygroup.com
+toots-a.akamaihd.net
+trk-euwest.tidaltv.com
+2a7e9.v.fwmrm.net
