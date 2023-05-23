@@ -1,2 +1,1 @@
-/.(kp|cu|ir|sy|ve|ru)/$
-/.(cn|by)/$
+/.(kp|cu|ir|sy|ve|ru|cn|by)/$
