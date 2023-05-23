@@ -1,0 +1,2 @@
+/.(kp|cu|ir|sy|ve|ru)/$
+/.(cn|by)/$
